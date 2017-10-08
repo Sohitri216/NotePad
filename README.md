@@ -19,3 +19,4 @@ $ npm install && bower install
 $ npm run watch
 ```
 Browse the www folder in your localhost
+# NotePad
